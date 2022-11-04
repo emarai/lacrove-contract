@@ -1,0 +1,39 @@
+{
+ "name": "Lacrove #81",
+ "description": "A Digital Fashion Tribe with 1234 3D NFT collection made of famous sneakers to the Tigers head wearing digital fashion outfits.",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "Purplac Gradiante"
+  },
+  {
+   "trait_type": "Element",
+   "value": "None"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "Default"
+  },
+  {
+   "trait_type": "Glasses",
+   "value": "None"
+  },
+  {
+   "trait_type": "Hat",
+   "value": "Astromonhead"
+  },
+  {
+   "trait_type": "Necklace",
+   "value": "None"
+  },
+  {
+   "trait_type": "Outfit",
+   "value": "Black Buzzing"
+  },
+  {
+   "trait_type": "Sneakerhead",
+   "value": "The Moskov"
+  }
+ ]
+}
